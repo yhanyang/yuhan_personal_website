@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yhanyang.github.io/sitemap.xml

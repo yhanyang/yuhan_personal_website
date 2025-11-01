@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on</title><link>https://yhanyang.github.io/research/</link><description>Recent content in Research on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yyang@roma2.infn.it (Yu-Han Yang)</managingEditor><webMaster>yyang@roma2.infn.it (Yu-Han Yang)</webMaster><copyright>© 2025 Yu-Han Yang</copyright><atom:link href="https://yhanyang.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://yhanyang.github.io/research/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yyang@roma2.infn.it (Yu-Han Yang)</author><guid>https://yhanyang.github.io/research/publications/</guid><description>&lt;p&gt;
+My publications can also be accessed through
+&lt;a href="https://orcid.org/0000-0003-0691-6688"&gt;
+&lt;img src="orcid.logo.svg"
+style="display:inline; vertical-align:middle; margin:0 0 5px 0; padding:0; width:40px; cursor:pointer;"
+onmouseover="this.style.transform='scale(1.3)'"
+onmouseout="this.style.transform='scale(1)'"
+alt="orcid"&gt;
+&lt;/a&gt;
+/
+&lt;a href="https://scholar.google.com/citations?user=jX4MsscAAAAJ&amp;hl=en"&gt;
+&lt;img src="scholar_logo_64dp.png"
+style="display:inline; vertical-align:middle; margin:0; padding:0; width:80px; cursor:pointer;"
+onmouseover="this.style.transform='scale(1.3)'"
+onmouseout="this.style.transform='scale(1)'"
+alt="Google Scholar"&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 class="relative group"&gt;First-Author
+&lt;div id="first-author" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#first-author" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ol id="pub-list" style="list-style-position:outside;padding-left:0;margin-left:0;"&gt;
+&lt;li id="pub-grb230307a-nature"
+data-tags="GRB 230307A"
+data-title="A lanthanide-rich kilonova in the aftermath of a long gamma-ray burst"&gt;
+Yu-Han Yang, Eleonora Troja, Brendan O’Connor, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Nature&lt;/b&gt;, 626, 742–745 (2024).
+ADS: 2024Natur.626..742Y, DOI: 10.1038/s41586-023-06979-5
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Yu-Han Yang, Eleonora Troja, Brendan O’Connor, Chris Fryer, Myungshin Im, Joe Durbak, Gregory S. H. Paek, Roberto Ricci, Clécio Bom, James Gillanders, Alberto Castro-Tirado, Zong-Kai Peng, Simone Dichiara, Geoffrey Ryan, Hendrik van Eerten, Zi-Gao Dai, Seo-Won Chang, Hyeonho Choi, Kishalay De, Youdong Hu, Charles Kilpatrick, Alexander Kutyrev, Mankeun Jeong, Chung-Uk Lee, Martin Makler, Felipe Navarete &amp; Ignacio Pérez-García.
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-sgr1935-apjl"
+data-tags="SGR 1935+2154"
+data-title="Bursts before Burst: A Comparative Study on FRB 200428-associated and FRB-absent X-Ray Bursts from SGR J1935+2154"&gt;
+Yu-Han Yang, Bin-Bin Zhang, Lin Lin, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 923, L12 (2021).
+ADS: 2021ApJ...906L..12Y, DOI: 10.3847/2041-8213/abd02a
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Yu-Han Yang, Bin-Bin Zhang, Lin Lin, Bing Zhang, Guo-Qiang Zhang, Yi-Si Yang, Zuo-Lin Tu, Jin-Hang Zou, Hao-Yang Ye, Fa-Yin Wang, and Zi-Gao Dai.
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-frb180814-apjl"
+data-tags="FRB 180814"
+data-title="Second Repeating FRB 180814.J0422+73: Ten-year Fermi-LAT Upper Limits and Implications"&gt;
+Yu-Han Yang, Bin-Bin Zhang, Bing Zhang,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 875, L19 (2019).
+ADS: 2019ApJ...875L..19Y, DOI: 10.3847/2041-8213/ab13af
+&lt;/li&gt;
+&lt;li id="pub-frb121102-apj"
+data-tags="FRB 121102"
+data-title="Emission from a pulsar wind nebula: application to the persistent radio counterpart of FRB 121102"&gt;
+Yu-Han Yang, Zi-Gao Dai,
+&lt;b&gt;Astrophysical Journal&lt;/b&gt;, 885, 149 (2019).
+ADS: 2019ApJ...885..149Y, DOI: 10.3847/1538-4357/ab48dd
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h2 class="relative group"&gt;Co-Author
+&lt;div id="co-author" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#co-author" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group"&gt;2025
+&lt;div id="2025" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2025" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-at2025ulz2" data-tags="LIGO/Virgo/KAGRA S250818k"
+data-title="AT2025ulz and S250818k: Deep X-ray and radio limits on off-axis afterglow emission and prospects for future discovery"&gt;
+Brendan O'Connor, Roberto Ricci, Eleonora Troja, Antonella Palmese, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+accepted for publication in the &lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;,
+arXiv: 2510.23728
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Brendan O'Connor, Roberto Ricci, Eleonora Troja, Antonella Palmese, Yu-Han Yang, Geoffrey Ryan, Hendrik van Eerten, Muskan Yadav, Xander J. Hall, Ariel Amsellem, Rosa L. Becerra, Malte Busmann, Tomas Cabrera, Simone Dichiara, Lei Hu, Ravjit Kaur, Keerthi Kunnumkai, Ignacio Magana Hernandez
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-ep-redshift"
+data-title="The redshift distribution of Einstein Probe transients supports their relation to gamma-ray bursts"&gt;
+Brendan O'Connor, Paz Beniamini, Eleonora Troja, &lt;i&gt;et al.&lt;/i&gt;,
+accepted for publication in the &lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;,
+arXiv: 2509.07141
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Brendan O'Connor, Paz Beniamini, Eleonora Troja, Malte Busmann, Simone Dichiara, Ramandeep Gill, Jonathan Granot, Michael Moss, Xander Hall, Antonella Palmese, Niccolo Passaleva, Yu-Han Yang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-extp-prospects"
+data-title="Prospects for Time-Domain and Multi-Messenger Science with eXTP"&gt;
+Shu-Xu Yi, Wen Zhao, Ren-Xin Xu, &lt;i&gt;et al.&lt;/i&gt;,
+accepted for publication in &lt;b&gt;Science China Physics, Mechanics &amp;amp; Astronomy&lt;/b&gt;,
+arXiv: 2506.08368
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Shu-Xu Yi, Wen Zhao, Ren-Xin Xu, Xue-Feng Wu, Giulia Stratta, Simone Dall'Osso, Yan-Jun Xu, Andrea Santangelo, Silvia Zane, Shuang-Nan Zhang, Hua Feng, Huan Yang, Junjie Mao, Junqiang Ge, Lijing Shao, Mi-Xiang Lan, He Gao, Lin Lin, Ning Jiang, Qingwen Wu, Tong Liu, Yun-Wei Yu, Xiang-Yu Wang, Jin Zhang, Dafne Guetta, Jin-Jun Geng, Di Xiao, Yong-Feng Huang, Yacheng Kang, Tian-Yong Cao, Zhen Zhang, Zhenwei Lyu, Zhen Pan, Yunfeng Chen, Yong Gao, Ang Li, Yu-Cong Fu, Shuo Xiao, Wei-Yang Wang, Fayin Wang, Zhenyin Zhao, Weihua Lei, Rong-Feng Shen, Lixin Dai, Guang-Lei Wu, Liang-Duan Liu, Bing Li, Xilong Fan, Xing-Jiang Zhu, Youjun Lu, Fan Xu, Kangfa Cheng, Da-Bin Lin, Xiao-Hong Zhao, Jun-Jie We, Bin-Bin Zhang, Ji-Rong Mao, Yongquan Xue, Xinwen Shu, Wenjie Zhang, Wei-Li Lin, Achille Fiore, Zhuo Li, Antonio Martin-Carrillo, Joseph Fisher, Fei Xie, Ye Li, Sandro Mereghetti, Shao-Lin Xiong, Yu-Han Yang, Eleonora Troja, Zi-Gao Dai, Da-Ming We, En-Wei Liang, J.E. Horvath, G. R. Cunha Sampaio, L.G. Barao, L. M. de Sa
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-ep241021a-radio" data-tags="EP241021A"
+data-title="Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a"&gt;
+Muskan Yadav, Eleonora Troja, Roberto Ricci, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+accepted for publication in the &lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;,
+arXiv: 2505.08781
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Muskan Yadav, Eleonora Troja, Roberto Ricci, Yu-Han Yang, Peter Veres, Mark H. Wieringa, Brendan O’Connor, Yacheng Kang, Rosa L. Becerra, Geoffrey Ryan, Malte Busmann
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-ep241021a-aa" data-tags="EP241021A"
+data-title="The curious case of EP241021a: Unraveling the mystery of its exceptional rebrightening"&gt;
+Malte Busmann, Brendan O’Connor, Julian Sommer, Daniel Gruen, Paz Beniamini, Ramandeep Gill, Michael J. Moss, Antonella Palmese, Arno Riffeser, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astronomy &amp;amp; Astrophysics&lt;/b&gt;, 701, A225 (2025)
+ADS: 2025A&amp;amp;A...701A.225B
+DOI: 10.1051/0004-6361/202554626
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Malte Busmann, Brendan O’Connor, Julian Sommer, Daniel Gruen, Paz Beniamini, Ramandeep Gill, Michael J. Moss, Antonella Palmese, Arno Riffeser, Yu-Han Yang, Eleonora Troja, Simone Dichiara, Roberto Ricci, Noel Klingler, Claus Gössl, Lei Hu, Arne Rau, Christoph Ries, Geoffrey Ryan, Michael Schmidt, Muskan Yadav, and Gregory R. Zeimann
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-long-grb-aa"
+data-title="Shared Properties of Merger-driven Long-duration Gamma-Ray Bursts"&gt;
+Yacheng Kang, Jin-Ping Zhu, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astronomy &amp;amp; Astrophysics&lt;/b&gt;, 698, A250 (2025)
+ADS: 2025A&amp;amp;A...698A.250K
+DOI: 10.1051/0004-6361/202554448
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Yacheng Kang, Jin-Ping Zhu, Yu-Han Yang, Ziming Wang, Eleonora Troja, Bing Zhang, Lijing Shao, Zhuo Li
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-ep240315a-apjl" data-tags="EP240315A"
+data-title="Long-term Radio Monitoring of the Fast X-Ray Transient EP 240315a: Evidence for a Relativistic Jet"&gt;
+Roberto Ricci, Eleonora Troja, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 979, L28 (2025)
+ADS: 2025ApJ...979L..28R
+DOI: 10.3847/2041-8213/ad8b3f
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Roberto Ricci, Eleonora Troja, Yu-Han Yang, Muskan Yadav, Yuan Liu, Hui Sun, Xuefeng Wu, He Gao, Bing Zhang, and Weimin Yuan
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h3 class="relative group"&gt;2024
+&lt;div id="2024" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2024" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-grb240219a-apjl" data-tags="GRB 240219A"
+data-title="Triggering the Untriggered: The First Einstein Probe-Detected Gamma-Ray Burst 240219A and Its Implications"&gt;
+Yi-Han Iris Yin, Bin-Bin Zhang, Jun Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 975, L27 (2024)
+ADS: 2024ApJ...975L..27Y
+DOI: 10.3847/2041-8213/ad8652
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Yi-Han Iris Yin, Bin-Bin Zhang, Jun Yang, Hui Sun, Chen Zhang, Yi-Xuan Shao, You-Dong Hu, Zi-Pei Zhu, Dong Xu, Li An, He Gao, Xue-Feng Wu, Bing Zhang, Alberto Javier Castro-Tirado, Shashi B. Pandey, Arne Rau, Weihua Lei, Wei Xie, Giancarlo Ghirlanda, Luigi Piro, Paul O'Brien, Eleonora Troja, Peter Jonker, Yun-Wei Yu, Jie An, Run-Chao Chen, Yi-Jing Chen, Xiao-Fei Dong, Rob Eyles-Ferris, Zhou Fan, Shao-Yu Fu, Johan P. U. Fynbo, Xing Gao, Yong-Feng Huang, Shuai-Qing Jiang, Ya-Hui Jiang, Yashaswi Julakanti, Erik Kuulkers, Qing-Hui Lao, Dongyue Li, Zhi-Xing Ling, Xing Liu, Yuan Liu, Jia-Yu Mou, Xin Pan, Varun, Daming Wei, Qinyu Wu, Muskan Yadav, Yu-Han Yang, Weimin Yuan, and Shuang-Nan Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h3 class="relative group"&gt;2023
+&lt;div id="2023" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2023" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-grb230307a-apjl" data-tags="GRB 230307A"
+data-title="A Luminous Precursor in the Extremely Bright GRB 230307A"&gt;
+S. Dichiara, D. Tsang, E. Troja, D. Neill, J. P. Norris, and Y.-H. Yang,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 954, L29 (2023)
+ADS: 2023ApJ...954L..29D
+DOI: 10.3847/2041-8213/acf21d
+&lt;/li&gt;
+&lt;li id="pub-grb211211a-like-apjl" data-tags="GRB 211211A"
+data-title="GRB 211211A-like Events and How Gravitational Waves May Tell Their Origins"&gt;
+Yi-Han Iris Yin, Bin-Bin Zhang, Hui Sun, Jun Yang, Yacheng Kang, Lijing Shao, Yu-Han Yang, and Bing Zhang,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 954, L17 (2023)
+ADS: 2023ApJ...954L..17Y
+DOI: 10.3847/2041-8213/acf04a
+&lt;/li&gt;
+&lt;li id="pub-grb221009a-science" data-tags="GRB 221009A"
+data-title="A structured jet explains the extreme GRB 221009A"&gt;
+Brendan O'Connor, Eleonora Troja, Geoffrey Ryan, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Science Advances&lt;/b&gt;, 9, eadi1405 (2023)
+ADS: 2023SciA....9I1405O
+DOI: 10.1126/sciadv.adi1405
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Brendan O'Connor, Eleonora Troja, Geoffrey Ryan, Paz Beniamini, Hendrik van Eerten, Jonathan Granot, Simone Dichiara, Roberto Ricci, Vladimir Lipunov, James H. Gillanders, Ramandeep Gill, Michael Moss, Shreya Anand, Igor Andreoni, Rosa L. Becerra, David A. H. Buckley, Nathaniel R. Butler, Stephen B. Cenko4, Aristarkh Chasovnikov, Joseph Durbak, Carlos Francile, Erica Hammerstein, Alexander J. van der Horst, Mansi M. Kasliwal, Chryssa Kouveliotou, Alexander S. Kutyrev, William H. Lee, Gokul P. Srinivasaragavan, Vladislav Topolev, Alan M. Watson, Yuhan Yang, Kirill Zhirkov
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-grb221009a-synch" data-tags="GRB 221009A"
+data-title="Synchrotron Radiation Dominates the Extremely Bright GRB 221009A"&gt;
+Jun Yang, Xiao-Hong Zhao, Zhenyu Yan, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 947, L11 (2023)
+ADS: 2023ApJ...947L..11Y
+DOI: 10.3847/2041-8213/acc84b
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Jun Yang, Xiao-Hong Zhao, Zhenyu Yan, Xiangyu Ivy Wang, Yan-Qiu Zhang, Zheng-Hua An, Ce Cai, Xin-Qiao Li, Zihan Li, Jia-Cong Liu, Zi-Ke Liu, Xiang Ma, Yan-Zhi Meng, Wen-Xi Peng, Rui Qiao, Lang Shao, Li-Ming Song, Wen-Jun Tan, Ping Wang, Chen-Wei Wang, Xiang-Yang Wen, Shuo Xiao, Wang-Chen Xue, Yu-Han Yang, Yi-Han Iris Yin, Bing Zhang, Fan Zhang, Shuai Zhang, Shuang-Nan Zhang, Chao Zheng, Shi-Jie Zheng, Shao-Lin Xiong, and Bin-Bin Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h3 class="relative group"&gt;2022
+&lt;div id="2022" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2022" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-grb211211a-nature" data-tags="GRB 211211A"
+data-title="A long-duration gamma-ray burst with a peculiar origin"&gt;
+Jun Yang, Shunke Ai, Bin-Bin Zhang, Bing Zhang, Zi-Ke Liu, Xiangyu Ivy Wang, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Nature&lt;/b&gt;, 612, 232–235 (2022)
+ADS: 2022Natur.612..232Y
+DOI: 10.1038/s41586-022-05403-8
+&lt;/li&gt;
+&lt;li id="pub-gw-lgrb-apjl"
+data-title="Search for Coincident Gravitational Waves and Long Gamma-Ray Bursts from 4-OGC and the Fermi-GBM/Swift-BAT Catalog"&gt;
+Yi-Fan Wang, Alexander H. Nitz, Collin D. Capano, Xiangyu Ivy Wang, Yu-Han Yang, and Bin-Bin Zhang,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 939, L14 (2022)
+ADS: 2022ApJ...939L..14W
+DOI: 10.3847/2041-8213/ac990c
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h3 class="relative group"&gt;2021
+&lt;div id="2021" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2021" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-grb210121a-apj" data-tags="GRB 210121A"
+data-title="GRB 210121A: A Typical Fireball Burst Detected by Two Small Missions"&gt;
+Xiangyu Ivy Wang, Xutao Zheng, Shuo Xiao, Jun Yang, Zi-Ke Liu, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal&lt;/b&gt;, 922, 237 (2021)
+ADS: 2021ApJ...922..237W
+DOI: 10.3847/1538-4357/ac29bd
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Xiangyu Ivy Wang, Xutao Zheng, Shuo Xiao, Jun Yang, Zi-Ke Liu, Yu-Han Yang, Jin-Hang Zou, Bin-Bin Zhang, Ming Zeng, Shao-Lin Xiong, Hua Feng, Xin-Ying Song, Jiaxing Wen, Dacheng Xu, Guo-Yin Chen, Yang Ni, Zi-Jian Zhang, Yu-Xuan Wu, Ce Cai, Jirong Cang, Yun-Wei Deng, Huaizhong Gao, De-Feng Kong, Yue Huang, Cheng-Kui Li, Hong Li, Xiao-Bo Li, En-Wei Liang, Lin Lin, Yihui Liu, Xiangyun Long, Dian Lu, Qi Luo, Yong-Chang Ma, Yan-Zhi Meng, Wen-Xi Peng, Rui Qiao, Li-Ming Song, Yang Tian, Pei-Yuan Wang, Ping Wang, Xiang-Gao Wang, Sheng Xu, Dongxin Yang, Yi-Han Yin, Weihe Zeng, Zhi Zeng, Ting-Jun Zhang, Yuchong Zhang, Zhao Zhang, and Zhen Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-sgr1935-period" data-tags="SGR 1935+2154"
+data-title="Periodicity Search on X-Ray Bursts of SGR J1935+2154 Using 8.5 yr of Fermi/GBM Data"&gt;
+Jin-Hang Zou, Bin-Bin Zhang, Guo-Qiang Zhang, Yu-Han Yang, Lang Shao, and Fa-Yin Wang,
+&lt;b&gt;Astrophysical Journal Letters&lt;/b&gt;, 923, L30 (2021)
+ADS: 2021ApJ...923L..30Z
+DOI: 10.3847/2041-8213/ac3759
+&lt;/li&gt;
+&lt;li id="pub-grb200415a-raaa" data-tags="GRB 200415A"
+data-title="Magnetar giant flare originating from GRB 200415A: transient GeV emission, time-resolved Ep–Liso correlation and implications"&gt;
+Vikas Chand, Jagdish C. Joshi, Rahul Gupta, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Research in Astronomy and Astrophysics&lt;/b&gt;, 21, 236 (2021)
+ADS: 2021RAA....21..236C
+DOI: 10.1088/1674-4527/21/9/236
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Vikas Chand, Jagdish C. Joshi, Rahul Gupta, Yu-Han Yang, Dimple, Vidushi Sharma, Jun Yang, Manoneeta Chakraborty, Jin-Hang Zou, Lang Shao, Yi-Si Yang, Bin-Bin Zhang, Shashi Bhushan Pandey, Ankush Banerjee and Eman Moneer
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-grb200826a-natastro" data-tags="GRB 200826A"
+data-title="A peculiarly short-duration gamma-ray burst from massive star core collapse"&gt;
+B.-B. Zhang, Z.-K. Liu, Z.-K. Peng, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Nature Astronomy&lt;/b&gt;, 5, 911–916 (2021)
+ADS: 2021NatAs...5..911Z
+DOI: 10.1038/s41550-021-01395-z
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+B.-B. Zhang, Z.-K. Liu, Z.-K. Peng, Y. Li, H.-J. Lü, J. Yang, Y.-S. Yang, Y.-H. Yang, Y.-Z. Meng, J.-H. Zou, H.-Y. Ye, X.-G. Wang, J.-R. Mao, X.-H. Zhao, J.-M. Bai, A. J. Castro-Tirado, Y.-D. Hu, Z.-G. Dai, E.-W. Liang &amp;amp; B. Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h3 class="relative group"&gt;2020
+&lt;div id="2020" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2020" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-sgr1935-nature" data-tags="SGR 1935+2154"
+data-title="No pulsed radio emission during a bursting phase of a Galactic magnetar"&gt;
+L. Lin, C. F. Zhang, P. Wang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Nature&lt;/b&gt;, 587, 63–65 (2020)
+ADS: 2020Natur.587...63L
+DOI: 10.1038/s41586-020-2839-y
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+L. Lin, C. F. Zhang, P. Wang, H. Gao, X. Guan, J. L. Han, J. C. Jiang, P. Jiang, K. J. Lee, D. Li, Y. P. Men, C. C. Miao, C. H. Niu, J. R. Niu, C. Sun, B. J. Wang, Z. L. Wang, H. Xu, J. L. Xu, J. W. Xu, Y. H. Yang, Y. P. Yang, W. Yu, B. Zhang, B.-B. Zhang, D. J. Zhou, W. W. Zhu, A. J. Castro-Tirado, Z. G. Dai, M. Y. Ge, Y. D. Hu, C. K. Li, Y. Li, Z. Li, E. W. Liang, S. M. Jia, R. Querel, L. Shao, F. Y. Wang, X. G. Wang, X. F. Wu, S. L. Xiong, R. X. Xu, Y.-S. Yang, G. Q. Zhang, S. N. Zhang, T. C. Zheng &amp;amp; J.-H. Zou
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-gbm190816-apj"
+data-title="Physical Implications of the Subthreshold GRB GBM-190816 and Its Associated Subthreshold Gravitational-wave Event"&gt;
+Yi-Si Yang, Shu-Qing Zhong, Bin-Bin Zhang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal&lt;/b&gt;, 899, 60 (2020)
+ADS: 2020ApJ...899...60Y
+DOI: 10.3847/1538-4357/ab9ff5
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Yi-Si Yang, Shu-Qing Zhong, Bin-Bin Zhang, Shichao Wu, Bing Zhang, Yu-Han Yang, Zhoujian Cao, He Gao, Jin-Hang Zou, Jie-Shuang Wang, Hou-Jun Lü, Ji-Rong Cang, and Zi-Gao Dai
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-grb200415a-apj" data-tags="GRB 200415A"
+data-title="GRB 200415A: A Short Gamma-Ray Burst from a Magnetar Giant Flare?"&gt;
+Jun Yang, Vikas Chand, Bin-Bin Zhang, Yu-Han Yang, &lt;i&gt;et al.&lt;/i&gt;,
+&lt;b&gt;Astrophysical Journal&lt;/b&gt;, 899, 106 (2020)
+ADS: 2020ApJ...899..106Y
+DOI: 10.3847/1538-4357/aba745
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Jun Yang, Vikas Chand, Bin-Bin Zhang, Yu-Han Yang, Jin-Hang Zou, Yi-Si Yang, Xiao-Hong Zhao, Lang Shao, Shao-Lin Xiong, Qi Luo, Xiao-Bo Li, Shuo Xiao, Cheng-Kui Li, Cong-Zhan Liu, Jagdish C. Joshi, Vidushi Sharma, Manoneeta Chakraborty, Ye Li, and Bing Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;hr&gt;
+&lt;h3 class="relative group"&gt;Submitted
+&lt;div id="submitted" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#submitted" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;li id="pub-at2025ulz1" data-tags="LIGO/Virgo/KAGRA S250818k"
+data-title="AT2025ulz and S250818k: zooming in with the Hubble Space Telescope"&gt;
+Yu-Han Yang, Eleonora Troja, Marko Ristić, &lt;i&gt;et al.&lt;/i&gt;,
+arXiv: 2510.18854
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Yu-Han Yang, Eleonora Troja, Marko Ristić, Muskan Yadav, Massine El Kabir, Rubén Sánchez-Ramírez, Rosa L. Becerra, Chris L. Fryer, Brendan O'Connor, Simone Dichiara, Alberto J. Castro-Tirado, Camila Angulo-Valdez, Josefa Becerra González, José A. Font, Ori Fox, Lei Hu, Youdong Hu, William H. Lee, Margarita Pereyra, Alicia M. Sintes, Alan M. Watson, López Mendoza K. Océlotl C
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-ep250207b" data-tags="GRB 240402B, EP250207b"
+data-title="Exploring the connection between compact object mergers and fast X-ray transients: The cases of LXT 240402A &amp;amp; EP250207b"&gt;
+R. L. Becerra, Yu-Han Yang, Eleonora Troja, &lt;i&gt;et al.&lt;/i&gt;,
+arXiv: 2510.13015
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+R. L. Becerra, Yu-Han Yang, Eleonora Troja, Massine El Kabir, Simone Dichiara, Niccolò Passaleva, Brendan O'Connor, Roberto Ricci, Chris Fryer, Lei Hu, Qinyu Wu, Muskan Yadav, Alan M. Watson, Anastasia Tsvetkova, Camila Angulo-Valdez, María D. Caballero-García, Alberto J. Castro-Tirado, C. C. Cheung, Dmitry Frederiks, Maria Gritsevich, J. E. Grove, M. Kerr, William H. Lee, Alexandra L. Lysenko, Margarita Pereyra Talamantes, Anna Ridnaia, Rubén Sánchez-Ramírez, Hui Sun, Dmitry Svinkin, Mikhail Ulanov, R. Woolf, Bing Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-grb230906a-chandra" data-tags="GRB 230906A"
+data-title="A merger within a merger: Chandra pinpoints the short GRB 230906A in a peculiar environment"&gt;
+S. Dichiara, E. Troja, B. O'Connor, Y.-H. Yang, P. Beniamini, A. Galvan-Gamez, T. Sakamoto, Y. Kawakubo, J. C. Charlton,
+arXiv: 2510.15867
+&lt;/li&gt;
+&lt;li id="pub-ep250921" data-tags="EP250921"
+data-title="A fast powerful X-ray transient from possible tidal disruption of a white dwarf"&gt;
+D.-Y. Li, W.-D. Zhang, J. Yang, &lt;i&gt;et al.&lt;/i&gt;,
+arXiv: 2509.25877
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+D.-Y. Li, W.-D. Zhang, J. Yang, J.-H. Chen, W. Yuan, H.-Q. Cheng, F. Xu, X.-W. Shu, R.-F. Shen, N. Jiang, J.-Z. Zhu, C. Zhou, W.-H. Lei, H. Sun, C.-C. Jin, L.-X. Dai, B. Zhang, Y.-H. Yang, W.-J. Zhang, H. Feng, B.-F. Liu, H.-Y. Zhou, H.-W. Pan, M.-J. Liu, S. Corbel, S. K. Jagan, M. C. Baglio, C. Burns, F. Cangemi, C. Chen, Y.-H. Cheng, A. Coleiro, F. Coti Zelati, S. R. Das, Z.-N. Dong, L. Galbany, N. Grollimund, D. Kelson, D. Lai, X. Li, Y. Liu, A. Marino, B. Mockler, P. O'Brien, E.-L. Qiao, N. Rea, L. Resmi, J. Rodriguez, R. Saxton, L.-M. Sun, L. Tao, T.-G. Wang, Y.-L. Wang, X.-F. Wu, D. Xu, Y.-J. Zhang, G.-Y. Zhao, Z.-M. Cai, Y. Chen, B. Cordier, Z. Fan, H. Gao, G. Ghirlanda, J.-W. Hu, Y.-F. Huang, S.-M. Jia, S. Komossa, H.-Y. Liu, H.-Q. Liu, J.-U. Ness, A. Rau, J. Sanders, R. Soria, S.-L. Sun, X.-J. Sun, E. Troja, S.-X. Wen, Y.-Q. Xue, Y.-H. I. Yin, C. Zhang, S.-N. Zhang, Y.-H. Zhang
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li id="pub-grb250221a" data-tags="GRB 250221A"
+data-title="Evidence of Energy Injection in the Short and Distant GRB 250221A"&gt;
+Camila Angulo-Valdez, Rosa L. Becerra, Ramandeep Gill, &lt;i&gt;et al.&lt;/i&gt;,
+arXiv: 2510.19132
+&lt;details class="author-details"&gt;&lt;summary&gt;Full author list&lt;/summary&gt;
+Camila Angulo-Valdez, Rosa L. Becerra, Ramandeep Gill, Noémie Globus, William H. Lee, Diego López-Cámara, Cassidy Mihalenko, Enrique Moreno-Méndez, Roberto Ricci, Karelle Siellez, Alan M. Watson, Muskan Yadav, Yu-Han Yang, Dalya Akl, Sarah Antier, Jean-Luc Atteia, Stéphane Basa, Nathaniel R. Butler, Simone Dichiara, Damien Dornic, Jean-Grégoire Ducoin, Francis Fortin, Leonardo García-García, Kin Ocelotl López, Francesco Magnani, Brendan O'Connor, Margarita Pereyra, Ny Avo Rakotondrainibe, Fredd Sánchez-Álvarez, Benjamin Schneider, Eleonora Troja, Antonio de Ugarte Postigo
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;style&gt;
+/* ========= 基础外观 ========= */
+/* 插入的标题（与 GCNs 同色系） */
+.pub-title{
+font-style: italic;
+color:#003366;
+}
+/* 高亮你的名字（仅作用于 #pub-list） */
+#pub-list .pub-me{
+color: yellowgreen;
+font-weight: bold;
+}
+/* ========= 标签与交叉引用 ========= */
+.pub-tagbar{
+margin-left:8px;
+display:inline-block;
+}
+.pub-tag-chip{
+position: relative; /* 让悬浮框锚定 chip */
+background:#eef3ff;
+color:#003366;
+border-radius:6px;
+padding:2px 6px;
+margin:0 6px;
+font-size:.8em;
+cursor:pointer;
+border:1px solid #d6e2ff;
+transition:background .2s,border-color .2s;
+}
+.pub-tag-chip:hover { background:#d8e3ff; border-color:#bcd0ff; }
+.pub-tag-chip.open { background:#cfe0ff; border-color:#9bbcff; }
+/* 悬停时的小浮窗预览 */
+.pub-tag-chip .hover-box{
+display:none;
+position:absolute;
+top:120%;
+left:0;
+background:#f7faff;
+border:1px solid #ccddee;
+border-radius:8px;
+padding:6px 10px;
+box-shadow:0 2px 6px rgba(0,0,0,0.15);
+font-size:0.85em;
+white-space:nowrap;
+z-index:100;
+pointer-events: none; /* 防止 hover 抖动 */
+}
+.pub-tag-chip:hover:not(.open) .hover-box{ display:block; }
+/* 点击后固定的引用块 */
+.inline-box{
+background:#f7faff;
+border-left:4px solid #3366cc;
+padding:6px 10px;
+margin:1em 0;
+font-size:0.9em;
+}
+.inline-box a{ color:#003399; text-decoration:none; }
+.inline-box a:hover{ text-decoration:underline; }
+/* authors 细节 */
+.author-details summary{ cursor:pointer; color:#0066cc; }
+.author-details[open] summary::after{ content:" (Hide)"; }
+&lt;/style&gt;
+&lt;script&gt;
+// Script 1/3：工具 &amp; 规范化 &amp; 基础格式化
+// 必须第一个加载，导出到 window.PUBS.utils 与 window.PUBS.format
+;(() =&gt; {
+// 命名空间
+window.PUBS = window.PUBS || {};
+const U = {};
+/* ========== 工具：标签规范化（用于匹配） ========== */
+// 仅用于“匹配”，展示仍保留原样（大小写/空格）
+U.norm = (s) =&gt; (s || '')
+.replace(/\s+/g,' ')
+.replace(/：/g,':')
+.replace(/\s*:\s*$/,'') // 去掉末尾冒号（如 "... S250818k:")
+.trim()
+.toUpperCase();
+/* ========== 工具：安全替换姓名高亮（只处理文本节点） ========== */
+U.highlightNameIn = (root) =&gt; {
+const nameRx = /(Yu-?Han Yang|Yuhan Yang|Y\. H\. Yang|Y\.-H\. Yang|Yang, Y\.-H\.)/g;
+const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+const nodes = [];
+while (walker.nextNode()) nodes.push(walker.currentNode);
+nodes.forEach(node =&gt; {
+const p = node.parentNode;
+if (!p || ['SCRIPT','STYLE'].includes(p.tagName)) return;
+const txt = node.nodeValue;
+if (!nameRx.test(txt)) return;
+const span = document.createElement('span');
+span.innerHTML = txt.replace(nameRx, '&lt;span class="pub-me"&gt;$1&lt;/span&gt;');
+node.replaceWith(span);
+});
+};
+/* ========== 基础格式：插入标题 + 链接替换 ========== */
+U.insertTitlesAndLinkify = (listEl) =&gt; {
+// 1) 按 data-title 在期刊 &lt;b&gt; 前插入（避免重复逗号）
+listEl.querySelectorAll('li[data-title]').forEach(li =&gt; {
+if (li.querySelector('.pub-title')) return;
+const title = li.getAttribute('data-title')?.trim();
+if (!title) return;
+const html = li.innerHTML;
+const idx = html.search(/&lt;b&gt;/i);
+if (idx &gt; -1) {
+const before = html.slice(0, idx).replace(/,\s*$/,'');
+const after = html.slice(idx).replace(/^\s*,\s*/, '');
+li.innerHTML = `${before}, &lt;i class="pub-title"&gt;${title}&lt;/i&gt;, ${after}`
+.replace(/,\s*,/g, ', ');
+} else {
+// 没有 &lt;b&gt;，通常是 “submitted / arXiv” 条目
+const parts = html.split(/(arXiv:|ADS:|DOI:|accepted|submitted)/i);
+if (parts.length &gt; 1) {
+// 在作者段和 arXiv 之间插入标题
+li.innerHTML = `${parts[0].replace(/,\s*$/,'')}, &lt;i class="pub-title"&gt;${title}&lt;/i&gt;, ${parts.slice(1).join('')}`
+.replace(/,\s*,/g, ', ');
+} else {
+// fallback：实在没有这些关键字，就直接在作者后加标题
+li.innerHTML = `${html.replace(/,\s*$/,'')}, &lt;i class="pub-title"&gt;${title}&lt;/i&gt;`;
+}
+}
+});
+// 2) 链接替换（不新开页面）
+listEl.innerHTML = listEl.innerHTML
+// arXiv
+.replace(/arXiv:\s*([a-z\-]+\/[0-9]{7}|[0-9]{4}\.[0-9]{5})(v[0-9]+)?/gi,
+'&lt;a href="https://arxiv.org/abs/$1"&gt;&lt;img src="arxiv-logo.svg" style="display:inline;vertical-align:middle;margin:0;padding:0;" width="30" alt="arXiv"&gt;&lt;/a&gt;')
+// DOI
+.replace(/DOI:\s*([0-9]+\.[0-9]+\/[^\s&lt;]+)/gi,
+'&lt;a href="https://doi.org/$1"&gt;🔗 DOI: $1&lt;/a&gt;')
+// ADS
+.replace(/ADS:\s*([^\s&lt;]+)/gi,
+'&lt;a href="https://ui.adsabs.harvard.edu/abs/$1/abstract"&gt;&lt;img src="ads_image.png" style="display:inline;vertical-align:middle;margin:0;padding:0;" width="24" alt="ADS"&gt;&lt;/a&gt;')
+// 偶尔文中会提到 GCN
+.replace(/GCN[- ]?(\d{4,6})\b/gi,
+'&lt;a href="https://gcn.nasa.gov/circulars/$1"&gt;🔗 GCN $1&lt;/a&gt;');
+};
+/* ========== 暴露 API ========== */
+window.PUBS.utils = U;
+window.PUBS.format = {
+applyToList(listSelector='#pub-list') {
+const list = document.querySelector(listSelector);
+if (!list) return null;
+U.insertTitlesAndLinkify(list);
+U.highlightNameIn(list);
+return list;
+}
+};
+})();
+&lt;/script&gt;
+&lt;script&gt;
+// Script 2/3：索引构建 &amp; 跨页面抓取
+;(() =&gt; {
+const { norm } = window.PUBS.utils;
+// === 新增：探测 base 子路径（例如 "/yuhan_personal_website/"） ===
+function detectBasePrefix() {
+// 这段脚本运行在 publications 页面，利用 "/research/" 作为锚点切分
+const path = location.pathname; // e.g. /yuhan_personal_website/research/publications/
+const marker = '/research/'; // 本页确定在 /research/ 下
+const i = path.indexOf(marker);
+if (i &gt;= 0) {
+const prefix = path.slice(0, i + 1); // 保留头部 "/"，结果形如 "/" 或 "/yuhan_personal_website/"
+return prefix;
+}
+return '/'; // 兜底：根部署
+}
+// === 新增：把站点内的 root-relative URL 补上 base 前缀 ===
+function withBase(u) {
+if (!u) return u;
+if (/^https?:\/\//i.test(u)) return u; // 绝对 URL 直接返回
+const base = detectBasePrefix();
+return base + String(u).replace(/^\/+/, ''); // 拼上 "/&lt;base&gt;/" + "research/gcns/"
+}
+function parseThisPage(listEl){
+return Array.from(listEl.querySelectorAll('li[id]')).map(li =&gt; {
+// 这里用 location.pathname 生成本页哈希链接就够了（它天然包含 base 子路径）
+const baseUrl = location.pathname.replace(/\/?$/, '/');
+const url = li.id ? (baseUrl + '#' + li.id) : baseUrl;
+const rawTags = (li.getAttribute('data-tags') || '')
+.split(',').map(s =&gt; s.trim()).filter(Boolean);
+const dispTags = Array.from(new Set(rawTags));
+const normTags = Array.from(new Set(rawTags.map(norm)));
+return {
+el: li,
+id: li.id,
+url,
+title: li.getAttribute('data-title') || li.textContent.trim().slice(0,160),
+tagsDisp: dispTags,
+tagsNorm: normTags
+};
+});
+}
+async function fetchOtherList(url){
+try {
+// 关键：在这里把根相对路径补成带 base 的路径
+const full = withBase(url);
+const html = await fetch(full, { credentials:'same-origin' }).then(r=&gt;r.text());
+const doc = new DOMParser().parseFromString(html, 'text/html');
+const lis = Array.from(doc.querySelectorAll('li[id]'));
+return lis.map(li =&gt; {
+const title = li.getAttribute('data-title') || li.textContent.trim().slice(0,160);
+const tags = (li.getAttribute('data-tags') || '')
+.split(',').map(s =&gt; s.trim()).filter(Boolean)
+.map(norm);
+const href = full.replace(/\/?$/, '/') + '#' + li.id; // 注意用 full（已带 base）
+return { title, tags, url: href };
+});
+} catch(e) {
+return [];
+}
+}
+// 暴露 API
+window.PUBS.index = {
+parseThisPage,
+async buildCrossIndex(options = {
+gcnsUrl: '/research/gcns/',
+pressUrl: '/outreach/press/'
+}) {
+// 这里不需要改调用处，fetchOtherList 内部会统一补 base
+const [gcns, press] = await Promise.all([
+fetchOtherList(options.gcnsUrl),
+fetchOtherList(options.pressUrl)
+]);
+return { GCNs: gcns, Press: press };
+}
+};
+})();
+&lt;/script&gt;
+&lt;script&gt;
+/* ============================================================
+Script 3/3：渲染标签 &amp; 交互（悬停预览、点击固定、点击空白收起）
+依赖前两段 Script 1/3 与 2/3，请保持加载顺序一致
+============================================================ */
+;(() =&gt; {
+const { applyToList } = window.PUBS.format;
+const { parseThisPage, buildCrossIndex } = window.PUBS.index;
+const { norm } = window.PUBS.utils;
+// ---------- 渲染“Also see ...” ----------
+function renderRelatedHTML(tagNorm, tagDisp, selfUrl, crossIndex, selfIndex) {
+const lines = [];
+// Publications（本页）
+(selfIndex || []).forEach(it =&gt; {
+if (it.url === selfUrl) return;
+if (it.tagsNorm.includes(tagNorm))
+lines.push(`• &lt;b&gt;Publication&lt;/b&gt;: &lt;a href="${it.url}"&gt;${it.title}&lt;/a&gt;`);
+});
+// GCNs &amp; Press
+(crossIndex?.GCNs || []).forEach(it =&gt; {
+if (it.tags.includes(tagNorm))
+lines.push(`• &lt;b&gt;GCN&lt;/b&gt;: &lt;a href="${it.url}"&gt;${it.title}&lt;/a&gt;`);
+});
+(crossIndex?.Press || []).forEach(it =&gt; {
+if (it.tags.includes(tagNorm))
+lines.push(`• &lt;b&gt;Press&lt;/b&gt;: &lt;a href="${it.url}"&gt;${it.title}&lt;/a&gt;`);
+});
+if (!lines.length) return '';
+return `&lt;div&gt;&lt;strong&gt;Also see for ${tagDisp}&lt;/strong&gt;&lt;/div&gt;` +
+lines.map(x =&gt; `&lt;div&gt;${x}&lt;/div&gt;`).join('');
+}
+// ---------- 给每个条目添加标签与交互 ----------
+function mountTagsForRows(rows, cross) {
+rows.forEach(row =&gt; {
+if (!row.tagsDisp.length) return;
+const bar = document.createElement('span');
+bar.className = 'pub-tagbar';
+row.el.appendChild(bar);
+row.tagsDisp.forEach((disp, idx) =&gt; {
+const tagNorm = row.tagsNorm[idx];
+const chip = document.createElement('span');
+chip.className = 'pub-tag-chip';
+chip.textContent = disp;
+// 悬停预览（仅在有交叉引用时插入）
+const hover = document.createElement('div');
+hover.className = 'hover-box';
+const preview = renderRelatedHTML(tagNorm, disp, row.url, cross, rows);
+if (preview) {
+hover.innerHTML = preview;
+chip.appendChild(hover);
+}
+// 点击固定／收起
+chip.addEventListener('click', e =&gt; {
+e.stopPropagation();
+const alreadyOpen = chip.classList.contains('open');
+// 收起所有
+document.querySelectorAll('.inline-box').forEach(b =&gt; b.remove());
+document.querySelectorAll('.pub-tag-chip.open')
+.forEach(c =&gt; c.classList.remove('open'));
+if (alreadyOpen) return; // 再次点击同一标签 → 收起
+const html = renderRelatedHTML(tagNorm, disp, row.url, cross, rows);
+if (!html) return;
+const box = document.createElement('div');
+box.className = 'inline-box';
+box.innerHTML = html;
+row.el.appendChild(box);
+chip.classList.add('open');
+});
+bar.appendChild(chip);
+});
+});
+// 点击空白处统一收起
+document.addEventListener('click', e =&gt; {
+if (e.target.closest('.pub-tag-chip') || e.target.closest('.inline-box')) return;
+document.querySelectorAll('.inline-box').forEach(b =&gt; b.remove());
+document.querySelectorAll('.pub-tag-chip.open').forEach(c =&gt; c.classList.remove('open'));
+});
+}
+// ---------- 初始化 ----------
+document.addEventListener('DOMContentLoaded', async () =&gt; {
+const list = applyToList('#pub-list');
+if (!list) return;
+const rows = parseThisPage(list);
+const cross = await buildCrossIndex({
+gcnsUrl: '/research/gcns/',
+pressUrl: '/outreach/press/'
+});
+mountTagsForRows(rows, cross);
+});
+// 暴露接口，供其他页面复用
+window.PUBS.tags = { mountTagsForRows };
+})();
+&lt;/script&gt;</description></item><item><title>GCNs</title><link>https://yhanyang.github.io/research/gcns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yyang@roma2.infn.it (Yu-Han Yang)</author><guid>https://yhanyang.github.io/research/gcns/</guid><description>&lt;p&gt;The &lt;a href="https://gcn.nasa.gov/circulars" target="_blank"&gt;General Coordinates Network (GCN)&lt;/a&gt; is a public collaboration platform run by NASA for the astronomy research community to share alerts and rapid communications about high-energy, multimessenger, and transient phenomena.&lt;/p&gt;
+&lt;p&gt;Below are some of the GCN circulars that include my contributions.&lt;/p&gt;</description></item></channel></rss>
