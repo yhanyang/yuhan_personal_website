@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools on Yu-Han Yang</title><link>https://yhanyang.github.io/series/tools/</link><description>Recent content in Tools on Yu-Han Yang</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yyang@roma2.infn.it (Yu-Han Yang)</managingEditor><webMaster>yyang@roma2.infn.it (Yu-Han Yang)</webMaster><copyright>© 2025 Yu-Han Yang</copyright><atom:link href="https://yhanyang.github.io/series/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Link to the Sky</title><link>https://yhanyang.github.io/tools/skylink/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yyang@roma2.infn.it (Yu-Han Yang)</author><guid>https://yhanyang.github.io/tools/skylink/</guid><description>&lt;div class="bf-catalog-links" data-mode="categorized" style="margin:1rem 0;"&gt;
+&lt;div style="display:grid;grid-template-columns:2fr 2fr 1fr 1fr;gap:12px;align-items:end;"&gt;&lt;div&gt;
+&lt;label style="display:block;font-size:0.85rem;opacity:.8;margin-bottom:4px;"&gt;RA (deg or hh:mm:ss)&lt;/label&gt;
+&lt;input id="bf-ra" placeholder="deg or hh:mm:ss" value="187.705" style="width:100%;padding:10px;border-radius:10px;border:1px solid var(--border,rgba(125,125,125,.25));background:var(--bg-input,transparent);color:inherit;" /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;label style="display:block;font-size:0.85rem;opacity:.8;margin-bottom:4px;"&gt;Dec (deg or dd:mm:ss)&lt;/label&gt;
+&lt;input id="bf-dec" placeholder="deg or dd:mm:ss" value="-1.234" style="width:100%;padding:10px;border-radius:10px;border:1px solid var(--border,rgba(125,125,125,.25));background:var(--bg-input,transparent);color:inherit;" /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;label style="display:block;font-size:0.85rem;opacity:.8;margin-bottom:4px;"&gt;Radius&lt;/label&gt;
+&lt;input id="bf-radius" type="number" step="any" placeholder="value" value="5" style="width:100%;padding:10px;border-radius:10px;border:1px solid var(--border,rgba(125,125,125,.25));background:var(--bg-input,transparent);color:inherit;" /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;label style="display:block;font-size:0.85rem;opacity:.8;margin-bottom:4px;"&gt;Unit&lt;/label&gt;
+&lt;select id="bf-unit" style="width:100%;padding:10px;border-radius:10px;border:1px solid var(--border,rgba(125,125,125,.25));background:var(--bg-input,transparent);color:inherit;"&gt;
+&lt;option value="arcsec" &gt;arcsec&lt;/option&gt;
+&lt;option value="arcmin" selected&gt;arcmin&lt;/option&gt;
+&lt;option value="deg" &gt;deg&lt;/option&gt;
+&lt;/select&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="bf-error" style="color:#ff7575;margin-top:8px;"&gt;&lt;/div&gt;
+&lt;div id="bf-lists" style="margin-top:12px;display:grid;grid-template-columns:1fr;gap:18px;font-size:0.95rem;line-height:1.6;"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(function(){
+function trim(s){ return (s||'').trim(); }
+function sexaToDegRA(s){ const t=s.replace(/\s+/g,':').split(':'); if(t.length&lt;2) throw new Error('RA requires H:M[:S]'); const h=+t[0], m=+(t[1]||0), sec=+(t[2]||0); if([h,m,sec].some(x=&gt;Number.isNaN(x))) throw new Error('Invalid RA'); return (h+m/60+sec/3600)*15; }
+function sexaToDegDec(s){ const t=s.replace(/\s+/g,':').split(':'); if(t.length&lt;2) throw new Error('Dec requires D:M[:S]'); let sign=1; if(/^[-+]/.test(t[0])){ sign=t[0].startsWith('-')?-1:1; t[0]=t[0].replace(/^[-+]/,''); } const d=+t[0], m=+(t[1]||0), sec=+(t[2]||0); if([d,m,sec].some(x=&gt;Number.isNaN(x))) throw new Error('Invalid Dec'); return sign*(Math.abs(d)+m/60+sec/3600); }
+function parseAngle(val,isRA=false){ const s=trim(val); if(s==='') throw new Error((isRA?'RA':'Dec')+' is empty'); if(/^[\-+]?\d+(?:\.\d+)?$/.test(s)) return parseFloat(s); return isRA?sexaToDegRA(s):sexaToDegDec(s); }
+function radiusToDeg(num,unit){ const r=parseFloat(num); if(Number.isNaN(r)||r&lt;=0) throw new Error('Radius must be positive'); if(unit==='deg') return r; if(unit==='arcmin') return r/60; if(unit==='arcsec') return r/3600; throw new Error('Unknown unit'); }
+const toArcmin=(deg)=&gt;deg*60;
+const toArcsec=(deg)=&gt;deg*3600;
+function degToHMS(d){
+const h = Math.floor(d/15);
+const m = Math.floor((d/15 - h) * 60);
+const s = ((d/15 - h - m/60) * 3600).toFixed(1);
+return `${String(h).padStart(2,'0')}h${String(m).padStart(2,'0')}m${String(s).padStart(4,'0')}s`;
+}
+function degToDMS(d){
+const sign = d &lt; 0 ? '-' : '+';
+const ad = Math.abs(d);
+const dd = Math.floor(ad);
+const mm = Math.floor((ad - dd) * 60);
+const ss = ((ad - dd - mm/60) * 3600).toFixed(1);
+return `${sign}${String(dd).padStart(2,'0')}d${String(mm).padStart(2,'0')}m${String(ss).padStart(4,'0')}s`;
+}
+function degToHMS_(d){
+const h = Math.floor(d/15);
+const m = Math.floor((d/15 - h) * 60);
+const s = ((d/15 - h - m/60) * 3600).toFixed(1);
+return `${String(h).padStart(2,'0')}h${String(m).padStart(2,'0')}m${String(s).padStart(4,'0')}s`;
+}
+function degToDMS_(d){
+const sign = d &lt; 0 ? '-' : '+';
+const ad = Math.abs(d);
+const dd = Math.floor(ad);
+const mm = Math.floor((ad - dd) * 60);
+const ss = ((ad - dd - mm/60) * 3600).toFixed(1);
+return `${sign}${String(dd).padStart(2,'0')}d${String(mm).padStart(2,'0')}m${String(ss).padStart(4,'0')}s`;
+}
+function makeSection(title){
+const wrap=document.createElement('div');
+const h=document.createElement('div'); h.textContent=title; h.style.fontWeight='600'; h.style.borderBottom='1px dashed var(--border,rgba(125,125,125,.25))'; h.style.paddingBottom='4px'; h.style.marginBottom='6px';
+const list=document.createElement('div'); list.style.display='flex'; list.style.flexDirection='column'; list.style.gap='6px';
+wrap.appendChild(h); wrap.appendChild(list);
+return {wrap,list};
+}
+function addLine(list, name, url) {
+const line = document.createElement('div');
+line.style.lineHeight = '1.5';
+line.style.margin = '0';
+const a = document.createElement('a');
+a.href = url;
+a.target = '_blank';
+a.rel = 'noopener';
+a.style.display = 'inline-block';
+a.style.alignItems = 'center';
+a.style.gap = '6px';
+const label = document.createElement('span');
+label.textContent = name;
+a.appendChild(label);
+line.appendChild(a);
+list.appendChild(line);
+}
+function buildCategorized(raDeg,decDeg,rDeg,listsEl){
+const rArcmin=toArcmin(rDeg); const enc=encodeURIComponent;
+listsEl.innerHTML='';
+const opt=makeSection('Optical');
+addLine(opt.list,'Legacy Sky Viewer → DESI Legacy Survey DR10',`https://www.legacysurvey.org/viewer/?ra=${raDeg}&amp;dec=${decDeg}&amp;layer=ls-dr10&amp;mark=${raDeg},${decDeg}`);
+addLine(opt.list,'Pan-STARRS Image Access',`http://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=${raDeg}+${decDeg}&amp;size=1200&amp;output_size=256`);
+addLine(opt.list,'Pan-STARRS DR2 Catalog (.csv)',`https://catalogs.mast.stsci.edu/api/v0.1/panstarrs/dr2/mean.csv?ra=${raDeg}&amp;dec=${decDeg}&amp;radius=${rDeg.toFixed(6)}`);
+addLine(opt.list,'SDSS DR18 Skyserver Navigate',`https://skyserver.sdss.org/dr18/VisualTools/navi?ra=${raDeg}&amp;dec=${decDeg}&amp;opt=I`);
+addLine(opt.list,'SDSS DR18 SkyServer Navigate v2',`https://skyserver.sdss.org/dr18/VisualTools/navi2?ra=${raDeg}&amp;dec=${decDeg}&amp;opt=I`);
+addLine(opt.list,'SkyMapper DR4 Image Access',`https://api.skymapper.nci.org.au/public/siap/dr4/query?POS=${raDeg},${decDeg}&amp;SIZE=${rDeg.toFixed(6)}`);
+const nir=makeSection('Infrared');
+addLine(nir.list,'IRSA → 2MASS Image Service',`https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/nph-im_inv?locstr=${raDeg}+${decDeg}&amp;regSize=${rDeg.toFixed(6)}&amp;band=A&amp;asky=on`);
+addLine(nir.list,'IRSA → 2MASS Point Source Catalog',`https://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-query?spatial=cone&amp;catalog=fp_psc&amp;objstr=${raDeg}+${decDeg}&amp;size=${toArcsec(rDeg).toFixed(6)}`);
+addLine(nir.list,'IRSA → AllWISE Source Catalog',`https://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-query?spatial=cone&amp;catalog=allwise_p3as_psd&amp;objstr=${raDeg}+${decDeg}&amp;size=${toArcsec(rDeg).toFixed(6)}`);
+addLine(nir.list,'Legacy Sky Viewer → unWISE layer',`https://www.legacysurvey.org/viewer/?ra=${raDeg}&amp;dec=${decDeg}&amp;layer=unwise-neo7&amp;mark=${raDeg},${decDeg}`);
+const xray=makeSection('X-ray');
+addLine(xray.list,'ESASky → XMM-Newton/EPIC layer',
+`https://sky.esa.int/esasky/?target=${raDeg}%20${decDeg}&amp;hips=XMM-Newton+EPIC+color&amp;fov=${rDeg.toFixed(6)}&amp;projection=SIN&amp;cooframe=J2000&amp;sci=true&amp;lang=en`);
+addLine(xray.list, 'ESASky → Chandra layer',
+`https://sky.esa.int/esasky/?target=${raDeg},${decDeg}&amp;hips=Chandra+RGB&amp;fov=${rDeg.toFixed(6)}&amp;projection=SIN&amp;cooframe=J2000&amp;sci=true&amp;lang=en`);
+addLine(xray.list,'eROSITA',`https://erosita.mpe.mpg.de/dr1/erodat/catalogue/search/?Longitude=${raDeg}+&amp;Latitude=${decDeg}&amp;CoordSys=fk5&amp;Distance=${rArcmin.toFixed(6)}&amp;DistanceUnit=arcmin&amp;Catalogue=DR1_Main`);
+const uv = makeSection('Ultraviolet (UV)');
+addLine(uv.list, 'VizieR → GALEX AIS GR6+7',
+`https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=II/335/galex_ais&amp;-c=${raDeg}+${decDeg}&amp;-c.r=${rArcmin.toFixed(6)}&amp;-c.u=arcmin`);
+addLine(uv.list, 'ESASky → GALEX layer',
+`https://sky.esa.int/esasky/?target=${raDeg}%20${decDeg}&amp;hips=GALEX+GR6%2F7+AIS+color&amp;fov=${rDeg.toFixed(6)}&amp;projection=SIN&amp;cooframe=J2000&amp;sci=true&amp;lang=en`);
+addLine(uv.list, 'ESASky → XMM-Newton/OM layer',
+`https://sky.esa.int/esasky/?target=${raDeg},${decDeg}&amp;hips=XMM-Newton+UV+color&amp;fov=${rDeg.toFixed(6)}&amp;projection=SIN&amp;cooframe=J2000&amp;sci=true&amp;lang=en`);
+const other = makeSection('Integrated Portals');
+addLine(other.list,'VizieR',
+`https://vizier.cds.unistra.fr/viz-bin/VizieR?-c=${raDeg}+${decDeg}&amp;-c.r=${rArcmin.toFixed(6)}&amp;-c.u=arcmin&amp;-c.eq=J2000`);
+addLine(other.list,'SIMBAD',
+`https://simbad.cds.unistra.fr/simbad/sim-coo?Coord=${raDeg}+${decDeg}&amp;Radius=${rArcmin.toFixed(6)}&amp;Radius.unit=arcmin`);
+addLine(other.list,
+'NED',`https://ned.ipac.caltech.edu/conesearch?search_type=Near%20Position%20Search&amp;in_csys=Equatorial&amp;in_equinox=J2000&amp;ra=${degToHMS(raDeg)}&amp;dec=${degToDMS(decDeg)}&amp;radius=${rArcmin.toFixed(6)}`);
+addLine(other.list,'ESASky',
+`https://sky.esa.int/esasky/?target=${enc(raDeg+','+decDeg)}&amp;hips=DSS2%20color&amp;fov=${rDeg.toFixed(6)}`);
+addLine(other.list,'Aladin Lite',
+`https://aladin.u-strasbg.fr/AladinLite/?target=${enc(raDeg+' '+decDeg)}&amp;fov=${rDeg.toFixed(6)}&amp;survey=P%2FDSS2%2Fcolor`);
+addLine(other.list, 'SkyView',
+`https://skyview.gsfc.nasa.gov/current/cgi/query.pl?`);
+addLine(other.list, 'WorldWide Telescope',
+`https://worldwidetelescope.org/webclient/`);
+addLine(other.list, 'HEASARC Xamin Search',
+`https://heasarc.gsfc.nasa.gov/xamin/`);
+addLine(other.list, 'IRSA',
+`https://irsa.ipac.caltech.edu/frontpage/`);
+addLine(other.list, 'NOIRLab Astro Data Lab',
+`https://datalab.noirlab.edu/data-explorer`);
+listsEl.appendChild(opt.wrap);
+listsEl.appendChild(nir.wrap);
+listsEl.appendChild(xray.wrap);
+listsEl.appendChild(uv.wrap);
+listsEl.appendChild(other.wrap);
+}
+function render(root){
+const ra=root.querySelector('#bf-ra');
+const dec=root.querySelector('#bf-dec');
+const r=root.querySelector('#bf-radius');
+const u=root.querySelector('#bf-unit');
+const lists=root.querySelector('#bf-lists');
+const err=root.querySelector('#bf-error');
+try{
+err.textContent='';
+const raDeg=parseAngle(ra.value,true);
+const decDeg=parseAngle(dec.value,false);
+const rDeg=radiusToDeg(r.value,u.value);
+buildCategorized(raDeg,decDeg,rDeg,lists);
+}catch(e){ lists.innerHTML=''; err.textContent=e.message; }
+}
+document.querySelectorAll('.bf-catalog-links[data-mode="categorized"]').forEach(root=&gt;{
+const handler=()=&gt;render(root);
+root.addEventListener('input',handler); root.addEventListener('change',handler);
+handler();
+});
+})();
+&lt;/script&gt;</description></item></channel></rss>

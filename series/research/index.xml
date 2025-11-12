@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on Yu-Han Yang</title><link>https://yhanyang.github.io/series/research/</link><description>Recent content in Research on Yu-Han Yang</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yyang@roma2.infn.it (Yu-Han Yang)</managingEditor><webMaster>yyang@roma2.infn.it (Yu-Han Yang)</webMaster><copyright>© 2025 Yu-Han Yang</copyright><atom:link href="https://yhanyang.github.io/series/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://yhanyang.github.io/research/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yyang@roma2.infn.it (Yu-Han Yang)</author><guid>https://yhanyang.github.io/research/publications/</guid><description>&lt;hr&gt;
+&lt;p&gt;
+As of October 2025, I am the author or co-author of 25 refereed publications in journals such as ApJ, A&amp;A, Nature, and Science, with 1,000+ citations and an h-index of 16 according to the
+&lt;a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0691-6688&amp;sort=date%20desc%2C%20bibcode%20desc/metrics"&gt; astrophysics data system (ADS).
+&lt;/a&gt;
+My publications are shown below and can also be accessed through
+&lt;a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0691-6688&amp;sort=date+desc"
+style="color:#3581E0; text-decoration:none; display:inline-flex; align-items:center; transition:transform 0.2s;"
+onmouseover="this.style.transform='scale(1.3)'"
+onmouseout="this.style.transform='scale(1)'"&gt;
+&lt;img src="ads_image.png"
+alt="ads"
+style="width:25px; margin:0 0px 10px 0; transition:transform 0.2s; cursor:pointer;" &gt;
+&lt;span style="transition:transform 0.2s;"&gt;ads&lt;/span&gt;
+&lt;/a&gt;
+|
+&lt;a href="https://orcid.org/0000-0003-0691-6688"&gt;
+&lt;img src="orcid.logo.svg"
+style="display:inline; vertical-align:middle; margin:0 0 5px 0; padding:0; width:40px; cursor:pointer;"
+onmouseover="this.style.transform='scale(1.3)'"
+onmouseout="this.style.transform='scale(1)'"
+alt="orcid"&gt;
+&lt;/a&gt;
+|
+&lt;a href="https://scholar.google.com/citations?user=jX4MsscAAAAJ&amp;hl=en"&gt;
+&lt;img src="scholar_logo_64dp.png"
+style="display:inline; vertical-align:middle; margin:0; padding:0; width:80px; cursor:pointer;"
+onmouseover="this.style.transform='scale(1.3)'"
+onmouseout="this.style.transform='scale(1)'"
+alt="Google Scholar"&gt;
+&lt;/a&gt;
+.
+&lt;/p&gt;</description></item><item><title>GCNs</title><link>https://yhanyang.github.io/research/gcns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yyang@roma2.infn.it (Yu-Han Yang)</author><guid>https://yhanyang.github.io/research/gcns/</guid><description>&lt;p&gt;The &lt;a href="https://gcn.nasa.gov" target="_blank"&gt;General Coordinates Network (GCN)&lt;/a&gt; is a public collaboration platform run by NASA for the astronomy research community to share alerts and rapid communications about high-energy, multimessenger, and transient phenomena.&lt;/p&gt;
+&lt;p&gt;Below are some of the GCN circulars that include my contributions.&lt;/p&gt;</description></item></channel></rss>
